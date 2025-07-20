@@ -1,2 +1,2 @@
 console.log('try 2 config')
-console.log('check try 2')
+console.log('check try')
