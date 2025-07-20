@@ -1,2 +1,2 @@
 console.log('try 2 example')
-console.log('check try 1')
+console.log('check try 2')
